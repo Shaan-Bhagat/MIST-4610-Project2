@@ -2,13 +2,13 @@
 ## United States Food Imports Tableau
 
 ## Group 2:
-Sahil Panchal - 811952439 -  
+Yonatan Woldetenssaie - 811294688 - https://github.com/YonatanWoldetenssaie/MIST4610_Project_2/blob/main/README.md
 
-Dru Hunt - 811481261 -  https://github.com/lwh12347/4610-Tableau-Project/blob/main/README.md 
+Sahil Panchal - 811952439 - https://github.com/SahilPnc/MIST-4610-Project-2/blob/main/README.md
 
-Yonatan Woldetenssaie - 811294688 -   
+Dru Hunt - 811481261 - https://github.com/lwh12347/4610-Tableau-Project/blob/main/README.md
 
-Kent Tran - 811696100 -   
+Kent Tran - 811696100 - https://github.com/Kenttra/MIST-4610-Project-2/blob/main/README.md
 
 Shaan Bhagat - 811542876 - https://github.com/Shaan-Bhagat/MIST-4610-Project2/blob/main/README.md
 
